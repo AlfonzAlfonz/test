@@ -3,7 +3,7 @@ import Layout from "components/Layout";
 import SlateValue from "components/SlateValue";
 import { promises as fs } from "fs";
 import { GetStaticProps } from "next";
-import R from "ramda";
+import * as R from "ramda";
 import React, { FC } from "react";
 import { Node } from "slate";
 import { contentPath, directoryFiles } from "utils";
