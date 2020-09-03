@@ -4,7 +4,7 @@ import { GetStaticPaths, GetStaticProps } from "next";
 import { promises as fs } from "fs";
 import path from "path";
 import { Container, Heading1, Lead, LoremIpsum, Paragraph, Box } from "@xcorejs/ui";
-import R from "ramda";
+import * as R from "ramda";
 import { contentPath, directoryFiles } from "utils";
 import { Node } from "slate";
 import SlateValue from "components/SlateValue";
