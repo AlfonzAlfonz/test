@@ -1,0 +1,9 @@
+{
+  "[json]": {
+    "type": "form",
+    "fields": {
+      "title": "string",
+      "text": "richtext"
+    }
+  }
+}
