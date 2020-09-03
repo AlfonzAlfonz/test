@@ -3,6 +3,10 @@
     "type": "form",
     "fields": {
       "title": "string",
+      "lead": {
+        "type": "string",
+        "as": "textarea"
+      },
       "text": "richtext"
     }
   }

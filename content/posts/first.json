@@ -1,5 +1,1 @@
-{
-  "title": "First article",
-  "lead": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sollicitudin lorem vestibulum ligula porttitor luctus. Donec mattis, odio luctus sagittis mattis, justo ex pellentesque diam, sit amet elementum lacus augue ut risus. Aliquam fermentum commodo enim id lobortis. Donec vitae convallis quam. Praesent venenatis maximus ornare. Fusce varius feugiat fringilla. Donec libero neque, hendrerit vitae tincidunt in, tincidunt et urna. Morbi condimentum egestas lobortis. Duis et tellus quis nunc porttitor consectetur. ",
-  "text": [{"type":"paragraph","children":[{"text":"A line of text in a paragraph. This is a text something"}]}]
-}
+{"title":"First post","lead":"This is a first article edited by GIT cms using a form editor!","text":[{"type":"paragraph","children":[{"text":"A line of text in a paragraph. This is a text something. Loooots of text"}]}]}
