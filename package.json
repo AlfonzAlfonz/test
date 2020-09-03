@@ -12,6 +12,7 @@
   "dependencies": {
     "@xcorejs/ui": "^0.7.3",
     "next": "^9.5.2",
+    "ramda": "^0.27.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "slate": "^0.58.4",
